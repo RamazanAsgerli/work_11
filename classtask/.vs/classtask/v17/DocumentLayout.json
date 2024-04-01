@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\work_11\\classtask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE23550C-8CF6-43C9-919C-D2ED3FCC76E0}|classtask.csproj|c:\\users\\administrator\\desktop\\work_11\\classtask\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE23550C-8CF6-43C9-919C-D2ED3FCC76E0}|classtask.csproj|solutionrelative:gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE23550C-8CF6-43C9-919C-D2ED3FCC76E0}|classtask.csproj|c:\\users\\administrator\\desktop\\work_11\\classtask\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE23550C-8CF6-43C9-919C-D2ED3FCC76E0}|classtask.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE23550C-8CF6-43C9-919C-D2ED3FCC76E0}|classtask.csproj|c:\\users\\administrator\\desktop\\work_11\\classtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE23550C-8CF6-43C9-919C-D2ED3FCC76E0}|classtask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\work_11\\classtask\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\work_11\\classtask\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAFMAAAAAaGZmZmYkwCMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T17:53:34.636Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\work_11\\classtask\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\work_11\\classtask\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AQIAABAAAABQMzMzMzM9wCsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T17:58:47.774Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gallery.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\work_11\\classtask\\Gallery.cs",
+              "RelativeDocumentMoniker": "Gallery.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\work_11\\classtask\\Gallery.cs",
+              "RelativeToolTip": "Gallery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T18:01:11.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
